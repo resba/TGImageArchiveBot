@@ -1,8 +1,9 @@
-run:
+to install required packages:
+* pip install -r requirements.txt
 
-pip install -r requirements.txt
-
-to install required packages.
+setup:
+* put your telegram bot API key from @BotFather into the updater line
+* run python tg.py
 
 to make the bot work:
 
